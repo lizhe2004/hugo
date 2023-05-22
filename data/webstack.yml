@@ -8,7 +8,7 @@
           logo: https://appslist.heimdall.site/icons/n8n.svg
           url: https://n8n.zeabur.app/
           description: 工作流系统.
-         - title: 个人网页导航
+        - title: 个人网页导航
           logo: heimdall.jpg
           url: https://lizhe.zeabur.app/
           description: 个人网页导航
@@ -63,7 +63,7 @@
           logo: ncbi.jpg
           url: https://supabase.com/
           description: 支持一个免费PostgreSQL数据库 
-       - title: neon
+        - title: neon
           logo: ncbi.jpg
           url: https:///neon.tech/
           description: 支持一个免费PostgreSQL数据库 
@@ -125,11 +125,6 @@
           url: https://app.n8n.cloud/
           description:   定时任务执行SaaS服务          
      
-
-
-
-
-
 - taxonomy: 常用推荐
   icon: far fa-star
   links: 
