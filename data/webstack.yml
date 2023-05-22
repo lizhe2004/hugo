@@ -8,10 +8,19 @@
           logo: https://appslist.heimdall.site/icons/n8n.svg
           url: https://n8n.zeabur.app/
           description: 工作流系统.
+        - title: 个人电子书库
+          logo: https://appslist.heimdall.site/icons/calibreweb.png
+          url: http://book.lizhe.io:9091
+          description: 个人calibreweb电子书库
+        - title: 个人下载器
+          logo: https://appslist.heimdall.site/icons/qbittorrent.svg
+          url: http://download.lizhe.io:9090
+          description: 个人网页导航
         - title: 个人网页导航
           logo: heimdall.jpg
           url: https://lizhe.zeabur.app/
           description: 个人网页导航
+          
     - term: 云SaaS服务
       links:
         - title: Vercel
