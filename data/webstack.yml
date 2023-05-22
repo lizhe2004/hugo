@@ -2,7 +2,7 @@
 - taxonomy: 个人站点
   icon: fas fa-flask fa-lg
   list:
-      - term: 自建
+    - term: 自建
       links:
         - title: N8N
           logo: https://appslist.heimdall.site/icons/n8n.svg
@@ -11,8 +11,7 @@
          - title: 个人网页导航
           logo: heimdall.jpg
           url: https://lizhe.zeabur.app/
-          description: 个人网页导航         
-
+          description: 个人网页导航
     - term: 云SaaS服务
       links:
         - title: Vercel
