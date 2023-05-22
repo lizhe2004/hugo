@@ -1,4 +1,135 @@
 ---
+- taxonomy: 个人站点
+  icon: fas fa-flask fa-lg
+  list:
+      - term: 自建
+      links:
+        - title: N8N
+          logo: https://appslist.heimdall.site/icons/n8n.svg
+          url: https://n8n.zeabur.app/
+          description: 工作流系统.
+         - title: 个人网页导航
+          logo: heimdall.jpg
+          url: https://lizhe.zeabur.app/
+          description: 个人网页导航         
+
+    - term: 云SaaS服务
+      links:
+        - title: Vercel
+          logo: vercel.webp
+          url: https://vercel.com/lizhe2004
+          description: 帮助开发人员创建和部署web应用的端到端平台，不支持Docker Image
+        - title: Zeabur
+          logo: ncbi.jpg
+          url: https://dash.zeabur.com/projects
+          description: 3个免费应用
+        - title: fly.io
+          logo: ncbi.jpg
+          url: https://fly.io/dashboard
+          description: 有免费额度，但需要绑定信用卡
+        - title: railway
+          logo: ncbi.jpg
+          url: https://railway.app/
+          description: 5美元免费额度，500小时
+        - title: netlify
+          logo: ncbi.jpg
+          url: https://www.netlify.com/
+          description: 还没研究好
+        - title: koyeb
+          logo: ncbi.jpg
+          url: https://www.koyeb.com/
+          description: 5.5 美元每月
+
+    - term: 云SaaS服务
+      links:
+        - title: logto
+          logo: ncbi.jpg
+          url: https://cloud.logto.io/
+          description: auth0的开源替代        
+
+
+    - term: 云PaaS服务
+      links:
+        - title: planetscale
+          logo: ncbi.jpg
+          url: https://planetscale.com/
+          description: 支持一个免费mysql数据库，
+
+        - title: upstash
+          logo: ncbi.jpg
+          url: https://www.upstash.com/
+          description: 支持一个免费Redis数据库和kafka
+          
+        - title: supabase
+          logo: ncbi.jpg
+          url: https://supabase.com/
+          description: 支持一个免费PostgreSQL数据库 
+       - title: neon
+          logo: ncbi.jpg
+          url: https:///neon.tech/
+          description: 支持一个免费PostgreSQL数据库 
+        - title: mongodb-Cloud
+          logo: ncbi.jpg
+          url: https:///cloud.mongodb.com/
+          description: 支持一个免费MongoDB数据库 
+        - title: TiDB-Cloud
+          logo: ncbi.jpg
+          url: https:////tidbcloud.com/
+          description: 支持一个免费TiDB数据库 
+        - title: qdrant
+          logo: ncbi.jpg
+          url: https://cloud.qdrant.io/ 
+          description: 免费向量数据库 
+
+    - term: 低代码
+      links:
+        - title: budibase
+          logo: ncbi.jpg
+          url: https://lizhe.budibase.app
+          description: 支持一个免费低代码服务（有开源版本）
+        - title: tooljet
+          logo: ncbi.jpg
+          url: https://lizhe.tooljet.com
+          description: 支持一个免费低代码服务（有开源版本）
+        - title: retool
+          logo: ncbi.jpg
+          url: https://lizhe.retool.com
+          description: 支持一个免费低代码服务（有开源版本）
+        - title: appsmith源码
+          logo: ncbi.jpg
+          url: https://github.com/appsmithorg/appsmith
+          description: 没有云服务，需要自建
+
+
+    - term: 定时任务执行SaaS服务
+      links:
+        - title: pipedream
+          logo: heimdall.jpg
+          url: https://pipedream.com/@lizhe2004
+          description:   定时任务执行SaaS服务
+        - title: mergent
+          logo: heimdall.jpg
+          url: https://app.mergent.co/projects
+          description:   定时任务执行SaaS服务
+        - title: zeplo
+          logo: heimdall.jpg
+          url: https://console.zeplo.io/w/lizhe/schedules
+          description:   定时任务执行SaaS服务
+
+
+        - title: upstash
+          logo: heimdall.jpg
+          url: https://console.upstash.com/qstash
+          description:   定时任务执行SaaS服务
+        - title: N8N 云服务（收费）
+          logo: heimdall.jpg
+          url: https://app.n8n.cloud/
+          description:   定时任务执行SaaS服务          
+     
+
+
+
+
 
 - taxonomy: 常用推荐
   icon: far fa-star
