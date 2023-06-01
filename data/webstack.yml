@@ -146,10 +146,10 @@
       logo: 语雀.jpg
       url: https://www.yuque.com/
       description: 专业的云端知识库。
-    - title: QQ 邮箱
-      logo: qq邮箱.png
-      url: http://mail.qq.com/
-      description: 腾讯 QQ 邮箱。
+    - title: 迅捷语音合成
+      logo: https://www.luyinzhushou.com/public/voice/images/newUI/head/top_logo.png
+      url: https://www.luyinzhushou.com/text2voice/
+      description: 迅捷语音合成。
     - title: 开源中国
       logo: 开源中国.jpg
       url: https://www.oschina.net/
