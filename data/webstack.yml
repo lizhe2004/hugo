@@ -20,10 +20,9 @@
           logo: heimdall.jpg
           url: https://lizhe.zeabur.app/
           description: 个人网页导航
-
     - term: 常用
-      links:       
-         - title: ChatGPT
+      links:  
+        - title: ChatGPT
           logo: "https://chat.openai.com/favicon.ico"
           url: https://chat.openai.com/
           #qrcode: assets/images/logos/qrcode.jpg
