@@ -1,5 +1,5 @@
 ---
-- taxonomy: 个人站点
+- taxonomy: 常用工具
   icon: fas fa-flask fa-lg
   list:
     - term: 自建
@@ -20,8 +20,22 @@
           logo: heimdall.jpg
           url: https://lizhe.zeabur.app/
           description: 个人网页导航
-          
-    - term: 云SaaS服务
+
+    - term: 常用
+      links:       
+         - title: ChatGPT
+          logo: "https://chat.openai.com/favicon.ico"
+          url: https://chat.openai.com/
+          #qrcode: assets/images/logos/qrcode.jpg
+          description: BioIT 爱好者！
+        - title: 迅捷语音合成
+          logo: https://www.luyinzhushou.com/public/voice/images/newUI/head/top_logo.png
+          url: https://www.luyinzhushou.com/text2voice/
+          description: 迅捷语音合成。
+- taxonomy: 云服务
+  icon: fas fa-flask fa-lg
+  list:          
+    - term: 云SaaS服务  
       links:
         - title: Vercel
           logo: vercel.webp
@@ -54,7 +68,6 @@
           logo: ncbi.jpg
           url: https://cloud.logto.io/
           description: auth0的开源替代        
-
 
     - term: 云PaaS服务
       links:
@@ -123,8 +136,6 @@
           logo: heimdall.jpg
           url: https://console.zeplo.io/w/lizhe/schedules
           description:   定时任务执行SaaS服务
-
-
         - title: upstash
           logo: heimdall.jpg
           url: https://console.upstash.com/qstash
@@ -137,19 +148,10 @@
 - taxonomy: 常用推荐
   icon: far fa-star
   links: 
-    - title: 关注我们
-      logo: ""
-      url: https://huahuaxia.net
-      #qrcode: assets/images/logos/qrcode.jpg
-      description: BioIT 爱好者！
     - title: 语雀
       logo: 语雀.jpg
       url: https://www.yuque.com/
       description: 专业的云端知识库。
-    - title: 迅捷语音合成
-      logo: https://www.luyinzhushou.com/public/voice/images/newUI/head/top_logo.png
-      url: https://www.luyinzhushou.com/text2voice/
-      description: 迅捷语音合成。
     - title: 开源中国
       logo: 开源中国.jpg
       url: https://www.oschina.net/
