@@ -15,11 +15,11 @@
         - title: 个人下载器
           logo: https://appslist.heimdall.site/icons/qbittorrent.svg
           url: http://download.lizhe.io:9090
-          description: 个人网页导航
-        - title: 个人网页导航
-          logo: heimdall.jpg
-          url: https://lizhe.zeabur.app/
-          description: 个人网页导航
+          description: 远程下载
+        - title: Kindle-Ear
+          logo: kindle-ear
+          url: http://lizhe-kindle-rss.appspot.com/
+          description: 个人RSS推动到Kindle（需魔法）
     - term: 常用
       links:  
         - title: ChatGPT
