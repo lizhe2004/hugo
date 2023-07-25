@@ -515,6 +515,12 @@
           description: Abstract Fonts (13,866 free fonts).      
     - term: PPT资源
       links:
+        - title: PresentationGo
+          url: https://www.presentationgo.com/
+          logo: PresentationGo.png
+          description: OfficePLUS，微软Office官方在线模板网站！
+
+  
         - title: OfficePLUS
           url: http://www.officeplus.cn/Template/Home.shtml
           logo: officeplus.png
