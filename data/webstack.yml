@@ -31,6 +31,11 @@
           logo: https://www.luyinzhushou.com/public/voice/images/newUI/head/top_logo.png
           url: https://www.luyinzhushou.com/text2voice/
           description: 迅捷语音合成。
+        - title: 迅捷语音合成
+          logo: https://www.xunshu.xyz/ico/logo.webp
+          url: https://www.xunshu.xyz/#/site
+          description: 电子书库。
+          
 - taxonomy: 云服务
   icon: fas fa-flask fa-lg
   list:          
