@@ -6,7 +6,7 @@
       links:
         - title: N8N
           logo: https://appslist.heimdall.site/icons/n8n.svg
-          url: https://n8n.zeabur.app/
+          url: https://n8n-aws.lizhe.io/
           description: 工作流系统.
         - title: 个人电子书库
           logo: https://appslist.heimdall.site/icons/calibreweb.png
