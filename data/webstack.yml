@@ -35,6 +35,11 @@
           logo: https://www.xunshu.xyz/ico/logo.webp
           url: https://www.xunshu.xyz/#/site
           description: 电子书库。
+        - title: Bing Image Creator
+          logo: https://r.bing.com/rp/eHzVBPX0sW9TywxYEypAu704o5Q.svg
+          url: https://www.bing.com/create
+          description: 基于DALL·E 3的智能图片生成服务
+          
           
 - taxonomy: 云服务
   icon: fas fa-flask fa-lg
