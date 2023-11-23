@@ -16,10 +16,7 @@
           logo: https://appslist.heimdall.site/icons/qbittorrent.svg
           url: http://download.lizhe.io:9090
           description: 远程下载
-        - title: Kindle-Ear
-          logo: kindle-ear
-          url: http://lizhe-kindle-rss.appspot.com/
-          description: 个人RSS推动到Kindle（需魔法）
+ 
     - term: 常用
       links:  
         - title: ChatGPT
@@ -39,7 +36,14 @@
           logo: https://r.bing.com/rp/eHzVBPX0sW9TywxYEypAu704o5Q.svg
           url: https://www.bing.com/create
           description: 基于DALL·E 3的智能图片生成服务
-          
+        - title:  Microsoft Designer
+          logo: https://designer.microsoft.com/static/media/designer-app-logo.6e2c3d3d68bfcd522937c56e88199ba6.svg
+          url: https://designer.microsoft.com/
+          description: Microsoft Designer       
+        - title:  Microsoft Copilot
+          logo: https://copilot.microsoft.com/rp/heOXyRFzkLjRIgrn2jdcirMbXok.png
+          url: https://copilot.microsoft.com/
+          description:  Microsoft Copilot
           
 - taxonomy: 云服务
   icon: fas fa-flask fa-lg
