@@ -24,10 +24,8 @@
           url: https://chat.openai.com/
           #qrcode: assets/images/logos/qrcode.jpg
           description: BioIT 爱好者！
-        - title: 迅捷语音合成
-          logo: https://www.luyinzhushou.com/public/voice/images/newUI/head/top_logo.png
-          url: https://www.luyinzhushou.com/text2voice/
-          description: 迅捷语音合成。
+
+          
         - title: 电子书库
           logo: https://www.xunshu.xyz/ico/logo.webp
           url: https://www.xunshu.xyz/#/site
@@ -44,6 +42,33 @@
           logo: https://copilot.microsoft.com/rp/heOXyRFzkLjRIgrn2jdcirMbXok.png
           url: https://copilot.microsoft.com/
           description:  Microsoft Copilot
+          
+    - term: TTS
+      links:  
+        - title: ttson
+          logo: "https://www.ttson.cn/assets/laba.cdedf554.png"
+          url: https://www.ttson.cn/
+          description: ttson
+        - title: ttstool
+          logo: "https://www.ttson.cn/assets/laba.cdedf554.png"
+          url: https://ttstool.com/   
+          description: ttstool
+        - title: ttsmaker
+          logo: "https://static.ttsmaker.cn/static/v3_theme_01_asset/logo/expert_logo_v2.png"
+          url: https://ttsmaker.cn/
+          description: 基于Azure内核的，号称永久免费~（每次合成需要填写防止机器刷接口的验证码）
+        - title: 迅捷语音合成
+          logo: https://www.luyinzhushou.com/public/voice/images/newUI/head/top_logo.png
+          url: https://www.luyinzhushou.com/text2voice/
+          description: 迅捷语音合成。
+        - title: 动漫语音合成
+          logo: https://www.luyinzhushou.com/public/voice/images/newUI/head/top_logo.png
+          url: https://acgn.ttson.cn/
+          description: 动漫语音合成
+        - title: UU在线工具
+          url: https://uutool.cn/text2voice/
+          description: UU在线工具
+          
           
 - taxonomy: 云服务
   icon: fas fa-flask fa-lg
