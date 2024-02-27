@@ -82,7 +82,7 @@
         - title: Zeabur
           logo: ncbi.jpg
           url: https://dash.zeabur.com/projects
-          description: 3个免费应用
+          description: 免费plan只支持serverless方案（python、go、node代码），开发者方案订阅费5美元（超额另算）
         - title: fly.io
           logo: ncbi.jpg
           url: https://fly.io/dashboard
@@ -98,7 +98,7 @@
         - title: koyeb
           logo: ncbi.jpg
           url: https://www.koyeb.com/
-          description: 5.5 美元每月
+          description: 1个免费web服务，50小时的免费Postgres数据库
 
     - term: 云SaaS服务
       links:
