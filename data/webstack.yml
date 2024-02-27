@@ -7,7 +7,7 @@
         - title: N8N
           logo: https://appslist.heimdall.site/icons/n8n.svg
           url: https://n8n-aws.lizhe.io/
-          description: 工作流系统.
+          description: 工作流系统，部署在aws服务器
         - title: 个人电子书库
           logo: https://appslist.heimdall.site/icons/calibreweb.png
           url: http://book.lizhe.io:9091
@@ -16,7 +16,67 @@
           logo: https://appslist.heimdall.site/icons/qbittorrent.svg
           url: http://download.lizhe.io:9090
           description: 远程下载
- 
+        - title: AI红包应用
+          logo: https://aicover-production.up.railway.app/logo.png
+          url: http://https://aicover-production.up.railway.app/
+          description: 部署在railway，用了supabase的pg数据库
+        - title: 微信聊天机器人
+          logo: https://appslist.heimdall.site/icons/qbittorrent.svg
+          url: work
+          description: 部署在aws服务器，避免总是自动退出
+        - title: Cloudreve网盘
+          logo: http://files-aws.lizhe.io/static/img/favicon.ico
+          url: http://files-aws.lizhe.io/
+          description: 基于Cloudreve接入七牛云、阿里云oss等云存储实现的网盘
+        - title: Alist挂载阿里云等服务
+          logo: 
+          url: http://files.lushasha.com/
+          description: Alist挂载阿里云等服务，部署在腾讯云服务器
+        - title: 青龙定时服务器
+          logo: https://qn.whyour.cn/logo.png
+          url: http://timer.lushasha.com/
+          description: 实现自动签到等功能，部署在腾讯云服务器
+        - title: Dify
+          logo: http://chat.lushasha.com/logo/logo-site.png
+          url: http://chat.lushasha.com/
+          description: 实现自动签到等功能，部署在腾讯云服务器，用的railway的redis服务
+        - title: One-API
+          logo: http://chat.lushasha.com/logo/logo-site.png
+          url: https://one-api.lizhe.io/
+          description: 实现将通义千问、百川等llm的API转换为openai格式的结果，部署在AZURE服务器，利用planetscale的mysql数据库
+        - title: 凤谷山的小店
+          logo: https://buy.lizhe.io/assets/common/images/default.jpg
+          url: https://buy.lizhe.io/
+          description: 实现支付后自动发卡密等商品等功能，部署在koyeb云服务，使用railway数据库
+        - title: 基于NextChat的AI聊天工具
+          logo: https://chat.lizhe.io/favicon.ico
+          url: https://chat.lizhe.io
+          description: 基于NextChat的AI聊天工具，部署在vercel
+        - title: 基于AI的影视剧推荐工具
+          logo: https://chat.lizhe.io/favicon.ico
+          url: https://watch.lizhe.io/
+          description: 基于AI的影视剧推荐工具，部署在vercel
+        - title: Google的gemini服务
+          logo: https://gemini.lizhe.io/favicon.ico
+          url: https://gemini.lizhe.io/
+          description: Google的gemini服务,部署在vercel
+        - title: langflow服务
+          logo: https://framerusercontent.com/images/Swry7kpQwwNmpsePw4Oc5P5FcJ0.png  
+          url: https://langflow.lizhe.io/
+          description: langflow服务 ,部署在render        
+        - title: flowise服务
+          logo: https://flowiseai.com/favicon.ico
+          url: https://flowise.lizhe.io/
+          description: flowise服务,部署在render       
+        - title: phpmyadmin服务
+          logo: https://phpmyadmin.lizhe.io/favicon.ico
+          url: https://phpmyadmin.lizhe.io
+          description: phpmyadmin服务 ，部署在render 
+        - title: GPT 学术优化
+          logo: https://gemini.lizhe.io/favicon.ico
+          url: https://lunwen.lizhe.io/
+          description: phpmyadmin服务 ，部署在render 
+
     - term: 常用
       links:  
         - title: ChatGPT
