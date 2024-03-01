@@ -148,7 +148,7 @@
           url: https://fly.io/dashboard
           description: 有免费额度，但需要绑定信用卡
         - title: railway
-          logo: https://railway.app/_next/static/chunks/pages/new-ef5f375dc973d8db.js
+          logo: https://railway.app/favicons/favicon-light.ico
           url: https://railway.app/
           description: 5美元免费额度，500小时
         - title: netlify
