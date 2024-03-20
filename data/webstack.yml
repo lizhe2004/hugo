@@ -857,6 +857,18 @@
   list: 
     - term: 资讯书籍
       links:
+        - title: 名人荐书
+          url: https://bookauthority.org/
+          logo: 微信读书.jpg
+          description: 提供了一系列经过专家认可的书籍推荐
+        - title: 知名书单
+          url: https://famousbooklist.blogspot.com/
+          logo: 微信读书.jpg
+          description: 提供了一系列书籍      
+        - title: 图书星球
+          url:https://planetofbooklist.com/
+          logo: 微信读书.jpg
+          description: 提供了一系列经过专家认可的书籍推荐    
         - title: 微信读书
           url: https://weread.qq.com/
           logo: 微信读书.jpg
