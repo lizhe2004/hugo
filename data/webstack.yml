@@ -79,21 +79,34 @@
         - title: 开发者工具
           logo: https://dev.lizhe.io/favicon.ico
           url: https://dev.lizhe.io/
-          description: 编解码、代码格式化、日期转换等 
+          description: 编解码、代码格式化、日期转换等 vercel
         - title: 速查表
           logo: data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%2024%2024%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20height%3D%221em%22%20width%3D%221em%22%3E%20%3Cpath%20d%3D%22m21.66%2010.44-.98%204.18c-.84%203.61-2.5%205.07-5.62%204.77-.5-.04-1.04-.13-1.62-.27l-1.68-.4c-4.17-.99-5.46-3.05-4.48-7.23l.98-4.19c.2-.85.44-1.59.74-2.2%201.17-2.42%203.16-3.07%206.5-2.28l1.67.39c4.19.98%205.47%203.05%204.49%207.23Z%22%20fill%3D%22%23c9d1d9%22%2F%3E%20%3Cpath%20d%3D%22M15.06%2019.39c-.62.42-1.4.77-2.35%201.08l-1.58.52c-3.97%201.28-6.06.21-7.35-3.76L2.5%2013.28c-1.28-3.97-.22-6.07%203.75-7.35l1.58-.52c.41-.13.8-.24%201.17-.31-.3.61-.54%201.35-.74%202.2l-.98%204.19c-.98%204.18.31%206.24%204.48%207.23l1.68.4c.58.14%201.12.23%201.62.27Zm2.43-8.88c-.06%200-.12-.01-.19-.02l-4.85-1.23a.75.75%200%200%201%20.37-1.45l4.85%201.23a.748.748%200%200%201-.18%201.47Z%22%20fill%3D%22%23228e6c%22%20%2F%3E%20%3Cpath%20d%3D%22M14.56%2013.89c-.06%200-.12-.01-.19-.02l-2.91-.74a.75.75%200%200%201%20.37-1.45l2.91.74c.4.1.64.51.54.91-.08.34-.38.56-.72.56Z%22%20fill%3D%22%23228e6c%22%20%2F%3E%20%3C%2Fsvg%3E
           url: https://shouce.lizhe.io/
-          description: 包括docker命令、正则表达式、代码编写等
-
+          description: 包括docker命令、正则表达式、代码编写等 github page
+        - title: RssHub
+          logo: https://rsshub.lizhe.io/favicon.ico
+          url: https://rsshub.lizhe.io/
+          description: 一个开源 RSS 生成器，可以给各种内容生成RSS订阅源
 
     - term: 常用
       links:  
+        
         - title: ChatGPT
           logo: "https://chat.openai.com/favicon.ico"
           url: https://chat.openai.com/
           #qrcode: assets/images/logos/qrcode.jpg
-          description: BioIT 爱好者！
-
+          description: ChatGPT
+        - title: Perplexity
+          logo: "https://www.perplexity.ai/favicon.svg"
+          url: https://www.perplexity.ai/
+          #qrcode: assets/images/logos/qrcode.jpg
+          description: Perplexity 是一个智能搜索引擎，旨在解锁知识的力量，实现信息的发现和共享。它是世界上第一个融合了对话和链接的搜索引擎，可以识别和回复更为模糊或抽象的语言，以模拟大部分人的语言询问。
+        - title: DEVV-AI
+          logo: "https://devv.ai/favicon-light.png"
+          url: https://devv.ai/
+          #qrcode: assets/images/logos/qrcode.jpg
+          description: DEVV AI是一个创新的人工智能（AI）驱动的搜索引擎，专门为开发人员设计。它的主要目标是通过提供智能的代码搜索功能，显著提高开发效率，节省时间和精力
           
         - title: 电子书库
           logo: https://www.xunshu.xyz/ico/logo.webp
