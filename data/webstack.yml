@@ -150,288 +150,53 @@
         - title: UU在线工具
           url: https://uutool.cn/text2voice/
           description: UU在线工具
-          
-          
-- taxonomy: 云服务
-  icon: fas fa-flask fa-lg
-  list:          
-    - term: 云SaaS服务  
-      links:
-        - title: Vercel
-          logo: vercel.webp
-          url: https://vercel.com/lizhe2004
-          description: 帮助开发人员创建和部署web应用的端到端平台，不支持Docker Image
-        - title: Zeabur
-          logo: https://zeabur.com/docs/_next/static/media/logo_b.5eb843fb.svg
-          url: https://dash.zeabur.com/projects
-          description: 免费plan只支持serverless方案（python、go、node代码,可能被删），开发者方案订阅费5美元（超额另算）
-        - title: fly.io
-          logo: ncbi.jpg
-          url: https://fly.io/dashboard
-          description: 有免费额度，但需要绑定信用卡
-        - title: railway
-          logo: https://railway.app/favicons/favicon-light.ico
-          url: https://railway.app/
-          description: 5美元免费额度，500小时
-        - title: netlify
-          logo: ncbi.jpg
-          url: https://www.netlify.com/
-          description: 还没研究好
-        - title: koyeb
-          logo: https://www.koyeb.com/favicon/favicon.ico
-          url: https://www.koyeb.com/
-          description: 1个免费web服务，50小时的免费Postgres数据库
-        - title: render
-          logo: https://dashboard.render.com/favicon-light.png
-          url: https://dashboard.render.com/
-          description: 可以使用免费实例，无请求会挂起待唤醒 
-
-    - term: 云SaaS服务
-      links:
-        - title: logto
-          logo: ncbi.jpg
-          url: https://cloud.logto.io/
-          description: auth0的开源替代        
-
-    - term: 云PaaS服务
-      links:
-        - title: planetscale
-          logo: ncbi.jpg
-          url: https://planetscale.com/
-          description: 支持一个免费mysql数据库，
-
-        - title: upstash
-          logo: ncbi.jpg
-          url: https://www.upstash.com/
-          description: 支持一个免费Redis数据库和kafka
-          
-        - title: supabase
-          logo: ncbi.jpg
-          url: https://supabase.com/
-          description: 支持一个免费PostgreSQL数据库 
-        - title: neon
-          logo: ncbi.jpg
-          url: https:///neon.tech/
-          description: 支持一个免费PostgreSQL数据库 
-        - title: mongodb-Cloud
-          logo: ncbi.jpg
-          url: https:///cloud.mongodb.com/
-          description: 支持一个免费MongoDB数据库 
-        - title: TiDB-Cloud
-          logo: ncbi.jpg
-          url: https:////tidbcloud.com/
-          description: 支持一个免费TiDB数据库 
-        - title: qdrant
-          logo: ncbi.jpg
-          url: https://cloud.qdrant.io/ 
-          description: 免费向量数据库 
-
-    - term: 低代码
-      links:
-        - title: budibase
-          logo: ncbi.jpg
-          url: https://lizhe.budibase.app
-          description: 支持一个免费低代码服务（有开源版本）
-        - title: tooljet
-          logo: ncbi.jpg
-          url: https://lizhe.tooljet.com
-          description: 支持一个免费低代码服务（有开源版本）
-        - title: retool
-          logo: ncbi.jpg
-          url: https://lizhe.retool.com
-          description: 支持一个免费低代码服务（有开源版本）
-        - title: appsmith源码
-          logo: ncbi.jpg
-          url: https://github.com/appsmithorg/appsmith
-          description: 没有云服务，需要自建
-
-
-    - term: 定时任务执行SaaS服务
-      links:
-        - title: pipedream
-          logo: heimdall.jpg
-          url: https://pipedream.com/@lizhe2004
-          description:   定时任务执行SaaS服务
-        - title: mergent
-          logo: heimdall.jpg
-          url: https://app.mergent.co/projects
-          description:   定时任务执行SaaS服务
-        - title: zeplo
-          logo: heimdall.jpg
-          url: https://console.zeplo.io/w/lizhe/schedules
-          description:   定时任务执行SaaS服务
-        - title: upstash
-          logo: heimdall.jpg
-          url: https://console.upstash.com/qstash
-          description:   定时任务执行SaaS服务
-        - title: N8N 云服务（收费）
-          logo: heimdall.jpg
-          url: https://app.n8n.cloud/
-          description:   定时任务执行SaaS服务          
-     
-- taxonomy: 常用推荐
-  icon: far fa-star
-  links: 
-    - title: 语雀
-      logo: 语雀.jpg
-      url: https://www.yuque.com/
-      description: 专业的云端知识库。
-    - title: 开源中国
-      logo: 开源中国.jpg
-      url: https://www.oschina.net/
-      description: 中文开源技术交流社区。
-    - title: 公众号平台
-      logo: 微信公众号.png
-      url: https://mp.weixin.qq.com/
-      description: 再小的个体也有自己的品牌。
-    - title: CODING
-      logo: coding.png
-      url: https://github.com/lizhe2004
-      description: 个人 CODING 代码托管。
-    - title: GitHub
-      logo: github.jpg
-      url: https://github.com/
-      description: GitHub 开源社区。
-    - title: Md2X 定制版
-      logo: mdx.png
-      url: https://mdx.ncbix.com/
-      description: Markdown 排版利器，Md2All 定制版。
-    - title: 搜狗微信
-      logo: 搜狗微信.jpg
-      url: https://weixin.sogou.com/
-      description: 搜狗微信搜索，一搜即达。
-    - title: 知乎
-      logo: 知乎.png
-      url: https://www.zhihu.com/
-      description: 知乎社区。
-    - title: V2EX
-      logo: v2ex.jpg
-      url: https://www.v2ex.com/
-      description: V2EX 创意工作者的社区。
-    - title: 语雀话题
-      logo: 语雀话题.png
-      url: https://www.yuque.com/shenweiyan/wow
-      description: 好看的皮囊千篇一律，有趣的灵魂万里挑一！
-
-
-- taxonomy: 科研办公
-  icon: fas fa-flask fa-lg
-  list:
-    - term: 生物信息
-      links:
-        - title: NCBI
-          logo: ncbi.jpg
-          url: https://www.ncbi.nlm.nih.gov/
-          description: National Center for Biotechnology Information.
-        - title: Bioconda
-          logo: bioconda.jpg
-          url: https://anaconda.org/bioconda/
-          description: "Bioconda :: Anaconda.org."
-        - title: CPAN
-          logo: cpan.jpg
-          url: https://metacpan.org/
-          description: Search the CPAN.
-        - title: Gitter Galaxy
-          logo: gitter.jpg
-          url: https://gitter.im/galaxyproject
-          description: Galaxy Gitter Community.
-        - title: R Project
-          logo: r-project.jpg
-          url: https://www.r-project.org/
-          description: https://www.r-project.org
-        - title: Bioconductor
-          logo: bioconductor.jpg
-          url: http://www.bioconductor.org/
-          description: http://www.bioconductor.org
-    - term: 云服务器
-      links:
-        - title: 阿里云
-          logo: 阿里云.jpg
-          url: https://www.aliyun.com/
-          description: 上云就上阿里云。
-        - title: 腾讯云
-          logo: 腾讯云.jpg
-          url: https://cloud.tencent.com/
-          description: 产业智变，云启未来。
-        - title: 华为云
-          logo: 华为云.png
-          url: https://www.huaweicloud.com/
-          description: 提供云计算服务+智能，见未来-华为云。
-        - title: 云筏科技
-          logo: ''
-          url: https://my.cloudraft.cn/
-          description: 云筏 - 科研云。
-        - title: 极云普惠云电脑
-          logo: 极云普惠云电脑.png
-          url: https://www.ji-cloud.cn/
-          description: 云电脑-云游戏-手机变电脑软件。
-        - title: 青椒云
-          logo: 青椒云.jpg
-          url: https://www.qingjiaocloud.com/
-          description: 云桌面,一站式云电脑服务平台。
-    - term: 办公学习
-      links:
-        - title: 有道词典
-          logo: 有道词典.png
-          url: https://www.youdao.com/
-          description: 免费，即时的多语种在线翻译。
-        - title: 有道翻译
-          logo: 有道词典.png
-          url: http://fanyi.youdao.com/
-          description: 有道翻译。
-        - title: 谷歌翻译
-          logo: 谷歌翻译.jpg
-          url: https://translate.google.cn/
-          description: 谷歌翻译。
-        - title: ProcessOn
-          logo: ProcessOn.png
-          url: https://www.processon.com/
-          description: 免费在线作图、实时协作。
-        
-
-- taxonomy: 悠闲娱乐
-  icon: fas fa-film fa-lg
-  list:
-    - term: 影音视频
-      links:
-        - title: 腾讯视频
-          logo: 腾讯视频.png
-          url: http://v.qq.com/
-          description: 腾讯视频，海量视频在线观看。
-        - title: 优酷
-          logo: 优酷.png
-          url: http://www.youku.com/
-          description: 优酷 - 这个世界很酷。
-        - title: 爱奇艺
-          logo: 爱奇艺.png
-          url: https://www.iqiyi.com/
-          description: 爱奇艺在线视频。
-        - title: 哔哩哔哩
-          logo: 哔哩哔哩.png
-          url: https://www.bilibili.com/
-          description: Bilibili 视频弹幕网站。
-        - title: QQ 音乐
-          logo: QQ音乐.jpg
-          url: https://y.qq.com/
-          description: QQ 音乐，在线听歌。
-        - title: 网易云音乐
-          logo: 网易云音乐.jpg
-          url: https://music.163.com/
-          description: 163 网易云音乐。
-        - title: 电影天堂（DYTT8）
-          logo: 电影天堂.png
-          url: https://www.dytt8.net/index.htm
-          description: 电影天堂（DYTT8），高清电影下载。
-        - title: 电影天堂（DYGOD）
-          logo: 电影天堂.png
-          url: https://www.dygod.net/
-          description: 电影天堂（DYGOD），高清电影下载。
- 
-   
       
 - taxonomy: 素材资源
   icon: far fa-folder-open fa-lg
   list:
+    - term: PPT资源
+      links:
+        - title: PresentationGo
+          url: https://www.presentationgo.com/
+          logo: PresentationGo.png
+          description: OfficePLUS，微软Office官方在线模板网站！
+        - title: OfficePLUS
+          url: http://www.officeplus.cn/Template/Home.shtml
+          logo: officeplus.png
+          description: OfficePLUS，微软Office官方在线模板网站！
+        - title: 第1PPT
+          url: http://www.1ppt.com
+          logo: officeplus.png
+          description: 全上万个PPT素材，素有模版、素材按关键词、颜色进行分类，方便查找。模版质量很高。
+        - title: 51PPT
+          url: http://www.51pptmoban.com
+          logo: officeplus.png
+          description: 原创PPT模版、动态PPT、背景、素材、图标、特效等。
+        - title: 比格PPT
+          url: http://www.tretars.com
+          logo: officeplus.png
+          description: 免费PPT模版素材下载、模版制作教程的个人博客网站，
+        - title: PPT汇
+          url: https://www.ppthui.com/
+          logo: officeplus.png
+          description:  PPT模版、工作PPT、PPT课件、背景、素材、图标等，下载无需注册
+        - title: 爱PPT
+          url: https://www.2ppt.com/
+          logo: officeplus.png
+          description: PPT、课件等素材，风格类型很多进行了详细分类
+        - title: pptmon
+          url: https://pptmon.com/
+          logo: officeplus.png
+          description:  收录免费PPT模版和谷歌幻灯片主题的国外文稿资源站
+        - title: slidesmania
+          url: https://slidesmania.com/
+          logo: officeplus.png
+          description: 免费创意PPT模版和谷歌幻灯片主题资源站，旨在为企业用户和教育从业者提供创意好看的PPT模版
+        - title: 优品PPT
+          url: http://www.ypppt.com/
+          logo: ypppt.png
+          description: 高质量的模版，而且还有PPT图表，PPT背景图等资源。各种风格类型很齐全。免费下载
+
     - term: 网盘资源
       links:
         - title: 百度网盘
@@ -637,40 +402,252 @@
         - title: Abstract Fonts
           url: http://www.abstractfonts.com/
           logo: abstractfonts.png
-          description: Abstract Fonts (13,866 free fonts).      
-    - term: PPT资源
+          description: Abstract Fonts (13,866 free fonts).
+- taxonomy: 云服务
+  icon: fas fa-flask fa-lg
+  list:
+    - term: 云SaaS服务
       links:
-        - title: PresentationGo
-          url: https://www.presentationgo.com/
-          logo: PresentationGo.png
-          description: OfficePLUS，微软Office官方在线模板网站！
+        - title: Vercel
+          logo: vercel.webp
+          url: https://vercel.com/lizhe2004
+          description: 帮助开发人员创建和部署web应用的端到端平台，不支持Docker Image
+        - title: Zeabur
+          logo: https://zeabur.com/docs/_next/static/media/logo_b.5eb843fb.svg
+          url: https://dash.zeabur.com/projects
+          description: 免费plan只支持serverless方案（python、go、node代码,可能被删），开发者方案订阅费5美元（超额另算）
+        - title: fly.io
+          logo: ncbi.jpg
+          url: https://fly.io/dashboard
+          description: 有免费额度，但需要绑定信用卡
+        - title: railway
+          logo: https://railway.app/favicons/favicon-light.ico
+          url: https://railway.app/
+          description: 5美元免费额度，500小时
+        - title: netlify
+          logo: ncbi.jpg
+          url: https://www.netlify.com/
+          description: 还没研究好
+        - title: koyeb
+          logo: https://www.koyeb.com/favicon/favicon.ico
+          url: https://www.koyeb.com/
+          description: 1个免费web服务，50小时的免费Postgres数据库
+        - title: render
+          logo: https://dashboard.render.com/favicon-light.png
+          url: https://dashboard.render.com/
+          description: 可以使用免费实例，无请求会挂起待唤醒 
 
-  
-        - title: OfficePLUS
-          url: http://www.officeplus.cn/Template/Home.shtml
-          logo: officeplus.png
-          description: OfficePLUS，微软Office官方在线模板网站！
-        - title: 优品PPT
-          url: http://www.ypppt.com/
-          logo: ypppt.png
-          description: 高质量的模版，而且还有PPT图表，PPT背景图等资源。
-        - title: PPT+
-          url: http://www.pptplus.cn/
-          logo: pptplus.png
-          description: PPT加直播、录制和分享—PPT+语音内容分享平台。
-        - title: PPTMind
-          url: http://www.pptmind.com/
-          logo: pptmind.png
-          description: 分享高端 ppt 模板与 keynote 模板的数字作品交易平台。
-        - title: tretars
-          url: http://www.tretars.com/ppt-templates
-          logo: tretars.png
-          description: The best free Mockups from the Web.
-        - title: 5百丁
-          url: http://ppt.500d.me/
-          logo: 500d.png
-          description: 中国领先的PPT模板共享平台。
-      
+    - term: 云SaaS服务
+      links:
+        - title: logto
+          logo: ncbi.jpg
+          url: https://cloud.logto.io/
+          description: auth0的开源替代        
+
+    - term: 云PaaS服务
+      links:
+        - title: planetscale
+          logo: ncbi.jpg
+          url: https://planetscale.com/
+          description: 支持一个免费mysql数据库，
+
+        - title: upstash
+          logo: ncbi.jpg
+          url: https://www.upstash.com/
+          description: 支持一个免费Redis数据库和kafka
+          
+        - title: supabase
+          logo: ncbi.jpg
+          url: https://supabase.com/
+          description: 支持一个免费PostgreSQL数据库 
+        - title: neon
+          logo: ncbi.jpg
+          url: https:///neon.tech/
+          description: 支持一个免费PostgreSQL数据库 
+        - title: mongodb-Cloud
+          logo: ncbi.jpg
+          url: https:///cloud.mongodb.com/
+          description: 支持一个免费MongoDB数据库 
+        - title: TiDB-Cloud
+          logo: ncbi.jpg
+          url: https:////tidbcloud.com/
+          description: 支持一个免费TiDB数据库 
+        - title: qdrant
+          logo: ncbi.jpg
+          url: https://cloud.qdrant.io/ 
+          description: 免费向量数据库 
+
+    - term: 低代码
+      links:
+        - title: budibase
+          logo: ncbi.jpg
+          url: https://lizhe.budibase.app
+          description: 支持一个免费低代码服务（有开源版本）
+        - title: tooljet
+          logo: ncbi.jpg
+          url: https://lizhe.tooljet.com
+          description: 支持一个免费低代码服务（有开源版本）
+        - title: retool
+          logo: ncbi.jpg
+          url: https://lizhe.retool.com
+          description: 支持一个免费低代码服务（有开源版本）
+        - title: appsmith源码
+          logo: ncbi.jpg
+          url: https://github.com/appsmithorg/appsmith
+          description: 没有云服务，需要自建
+
+
+    - term: 定时任务执行SaaS服务
+      links:
+        - title: pipedream
+          logo: heimdall.jpg
+          url: https://pipedream.com/@lizhe2004
+          description:   定时任务执行SaaS服务
+        - title: mergent
+          logo: heimdall.jpg
+          url: https://app.mergent.co/projects
+          description:   定时任务执行SaaS服务
+        - title: zeplo
+          logo: heimdall.jpg
+          url: https://console.zeplo.io/w/lizhe/schedules
+          description:   定时任务执行SaaS服务
+        - title: upstash
+          logo: heimdall.jpg
+          url: https://console.upstash.com/qstash
+          description:   定时任务执行SaaS服务
+        - title: N8N 云服务（收费）
+          logo: heimdall.jpg
+          url: https://app.n8n.cloud/
+          description:   定时任务执行SaaS服务          
+- taxonomy: 常用推荐
+  icon: far fa-star
+  links: 
+    - title: 语雀
+      logo: 语雀.jpg
+      url: https://www.yuque.com/
+      description: 专业的云端知识库。
+    - title: 开源中国
+      logo: 开源中国.jpg
+      url: https://www.oschina.net/
+      description: 中文开源技术交流社区。
+    - title: 公众号平台
+      logo: 微信公众号.png
+      url: https://mp.weixin.qq.com/
+      description: 再小的个体也有自己的品牌。
+    - title: CODING
+      logo: coding.png
+      url: https://github.com/lizhe2004
+      description: 个人 CODING 代码托管。
+    - title: GitHub
+      logo: github.jpg
+      url: https://github.com/
+      description: GitHub 开源社区。
+    - title: Md2X 定制版
+      logo: mdx.png
+      url: https://mdx.ncbix.com/
+      description: Markdown 排版利器，Md2All 定制版。
+    - title: 搜狗微信
+      logo: 搜狗微信.jpg
+      url: https://weixin.sogou.com/
+      description: 搜狗微信搜索，一搜即达。
+    - title: 知乎
+      logo: 知乎.png
+      url: https://www.zhihu.com/
+      description: 知乎社区。
+    - title: V2EX
+      logo: v2ex.jpg
+      url: https://www.v2ex.com/
+      description: V2EX 创意工作者的社区。
+    - title: 语雀话题
+      logo: 语雀话题.png
+      url: https://www.yuque.com/shenweiyan/wow
+      description: 好看的皮囊千篇一律，有趣的灵魂万里挑一！
+
+
+- taxonomy: 科研办公
+  icon: fas fa-flask fa-lg
+  list:
+    - term: 云服务器
+      links:
+        - title: 阿里云
+          logo: 阿里云.jpg
+          url: https://www.aliyun.com/
+          description: 上云就上阿里云。
+        - title: 腾讯云
+          logo: 腾讯云.jpg
+          url: https://cloud.tencent.com/
+          description: 产业智变，云启未来。
+        - title: 华为云
+          logo: 华为云.png
+          url: https://www.huaweicloud.com/
+          description: 提供云计算服务+智能，见未来-华为云。
+        - title: 云筏科技
+          logo: ''
+          url: https://my.cloudraft.cn/
+          description: 云筏 - 科研云。
+        - title: 极云普惠云电脑
+          logo: 极云普惠云电脑.png
+          url: https://www.ji-cloud.cn/
+          description: 云电脑-云游戏-手机变电脑软件。
+        - title: 青椒云
+          logo: 青椒云.jpg
+          url: https://www.qingjiaocloud.com/
+          description: 云桌面,一站式云电脑服务平台。
+    - term: 办公学习
+      links:
+        - title: 有道词典
+          logo: 有道词典.png
+          url: https://www.youdao.com/
+          description: 免费，即时的多语种在线翻译。
+        - title: 有道翻译
+          logo: 有道词典.png
+          url: http://fanyi.youdao.com/
+          description: 有道翻译。
+        - title: 谷歌翻译
+          logo: 谷歌翻译.jpg
+          url: https://translate.google.cn/
+          description: 谷歌翻译。
+        - title: ProcessOn
+          logo: ProcessOn.png
+          url: https://www.processon.com/
+          description: 免费在线作图、实时协作。
+- taxonomy: 悠闲娱乐
+  icon: fas fa-film fa-lg
+  list:
+    - term: 影音视频
+      links:
+        - title: 腾讯视频
+          logo: 腾讯视频.png
+          url: http://v.qq.com/
+          description: 腾讯视频，海量视频在线观看。
+        - title: 优酷
+          logo: 优酷.png
+          url: http://www.youku.com/
+          description: 优酷 - 这个世界很酷。
+        - title: 爱奇艺
+          logo: 爱奇艺.png
+          url: https://www.iqiyi.com/
+          description: 爱奇艺在线视频。
+        - title: 哔哩哔哩
+          logo: 哔哩哔哩.png
+          url: https://www.bilibili.com/
+          description: Bilibili 视频弹幕网站。
+        - title: QQ 音乐
+          logo: QQ音乐.jpg
+          url: https://y.qq.com/
+          description: QQ 音乐，在线听歌。
+        - title: 网易云音乐
+          logo: 网易云音乐.jpg
+          url: https://music.163.com/
+          description: 163 网易云音乐。
+        - title: 电影天堂（DYTT8）
+          logo: 电影天堂.png
+          url: https://www.dytt8.net/index.htm
+          description: 电影天堂（DYTT8），高清电影下载。
+        - title: 电影天堂（DYGOD）
+          logo: 电影天堂.png
+          url: https://www.dygod.net/
+          description: 电影天堂（DYGOD），高清电影下载。
 
 - taxonomy: 开发设计
   icon: fas fa-tools fa-lg
@@ -823,7 +800,6 @@
           url: https://www.gaoding.com
           logo: gaoding.png
           description: 免费在线抠图软件,图片快速换背景-抠白底图。
-        
     - term: 谷歌插件
       links:
         - title: wappalyzer
