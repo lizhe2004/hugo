@@ -1,4 +1,33 @@
 ---
+
+
+
+- taxonomy: 阅读
+  icon: fas fa-flask fa-lg
+  list:
+    - term: 博客
+      links:
+        - title: 阮一峰的网络日志
+          url: http://www.ruanyifeng.com/blog/
+          logo: 阮一峰.png
+          description: 阮一峰，科技爱好者周刊。
+        - title: Martin Fowler个人博客
+          url: https://martinfowler.com/
+          logo: ''
+          description: Martin Fowler是一位知名的软件开发者和作者，他在软件开发领域有着广泛的影响。他是敏捷开发和重构的先驱者之一，也是UML（统一建模语言）的创始人之一。他的著作《重构：改善既有代码的设计》和《企业应用架构模式》等书，对软件开发行业产生了深远影响。他目前在ThoughtWorks担任首席科学家。
+        - title: 酷壳
+          url: https://www.coolshell.cn/
+          logo: ''
+          description: 酷 壳 – CoolShell。
+- taxonomy: 趣站
+  icon: fas fa-flask fa-lg
+  list:
+    - term: 趣站
+      links:
+        - title: 白噪声网站
+          url: https://ambiph.one/
+          logo: 阮一峰.png
+          description: 白噪声网站
 - taxonomy: 常用工具
   icon: fas fa-flask fa-lg
   list:
@@ -88,10 +117,8 @@
           logo: https://rsshub.lizhe.io/favicon.ico
           url: https://rsshub.lizhe.io/
           description: 一个开源 RSS 生成器，可以给各种内容生成RSS订阅源
-
     - term: 常用
-      links:  
-        
+      links:
         - title: ChatGPT
           logo: "https://chat.openai.com/favicon.ico"
           url: https://chat.openai.com/
@@ -107,7 +134,6 @@
           url: https://devv.ai/
           #qrcode: assets/images/logos/qrcode.jpg
           description: DEVV AI是一个创新的人工智能（AI）驱动的搜索引擎，专门为开发人员设计。它的主要目标是通过提供智能的代码搜索功能，显著提高开发效率，节省时间和精力
-          
         - title: 电子书库
           logo: https://www.xunshu.xyz/ico/logo.webp
           url: https://www.xunshu.xyz/#/site
@@ -150,6 +176,12 @@
         - title: UU在线工具
           url: https://uutool.cn/text2voice/
           description: UU在线工具
+        - title: 微软Azure TTS语音库
+          logo: https://www.luyinzhushou.com/public/voice/images/newUI/head/top_logo.png
+          url: https://speech.microsoft.com/portal/07bbdda1a9434587b3d1a659d7745201/voicegallery
+          description: 微软Azure TTS语音库
+
+          
       
 - taxonomy: 素材资源
   icon: far fa-folder-open fa-lg
@@ -652,36 +684,28 @@
 - taxonomy: 开发设计
   icon: fas fa-tools fa-lg
   list: 
-    - term: 图形创意
+    - term: 免费API
       links:
-        - title: photoshop
-          url: https://www.adobe.com/cn/products/photoshop.html
+        - title: Github Public API
+          url: https://github.com/public-apis/public-apis?tab=readme-ov-file
           logo: photoshop.png
-          description: Photoshop不需要解释
-        - title: Affinity Designer
-          url: https://affinity.serif.com/
+          description:  Github Public API
+        - title: 幂简集成
+          url: https://www.explinks.com/apihub
           logo: AffinityDesigner.png
-          description: 专业创意软件
-        - title: Illustrator
-          url: https://www.adobe.com/cn/products/illustrator/
-          logo: Illustrator.png
-          description: 矢量图形和插图。
-        - title: indesign
-          url: http://www.adobe.com/cn/products/indesign.html
+          description: 幂简集成
+        - title: 夏柔API
+          url: https://api.aa1.cn/
+          logo: AffinityDesigner.png
+          description: 夏柔API
+        - title: Free API
+          url: https://www.free-api.com/
           logo: INDESIGN .png
-          description: 页面设计、布局和出版。
-        - title: cinema-4d
-          url: https://www.maxon.net/en/products/cinema-4d/overview/
+          description: Free API
+        - title: 山河API
+          url: https://api.shanhe.kim/
           logo: cinema4d.png
-          description: Cinema 4D is the perfect package for all 3D artists who want to achieve breathtaking results fast and hassle-free.
-        - title: 3ds-max
-          url: https://www.autodesk.com/products/3ds-max/overview
-          logo: 3dsmax.png
-          description: 3D modeling, animation, and rendering software
-        - title: Blender
-          url: https://www.blender.org/
-          logo: blender.png
-          description: Blender is the free and open source 3D creation suite.
+          description: 山河API
     - term: 界面设计
       links:
         - title: Sketch
