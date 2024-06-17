@@ -796,6 +796,14 @@
           description: Color Claim was created in 2012 by Tobias van Schneider with the goal to collect & combine unique colors for my future projects.
     - term: 在线工具
       links:
+        - title: logo-fast
+          url: https://shipfa.st/tools/logo-fast
+          logo: https://shipfa.st/apple-touch-icon.png
+          description: 免费制作logo，基于一些免费icon         
+        - title: 设计logo
+          url: https://www.reshot.com/
+          logo: https://www.reshot.com/build/favicons/favicon-eacea34ccb8df4229e741aab6a417f80c44e9c904a6885b746f602af7cd3d0ac.png
+          description: 免icon和插图，商业可用
         - title: tinypng
           url: https://tinypng.com/
           logo: tinypng.png
@@ -819,7 +827,8 @@
         - title: svgomg
           url: https://jakearchibald.github.io/svgomg/
           logo: svgomg.png
-          description: SVG 在线压缩平台。
+          description: SVG 在线压缩平台
+
         - title: 稿定抠图
           url: https://www.gaoding.com
           logo: gaoding.png
