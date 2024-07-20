@@ -85,18 +85,6 @@
           logo: https://chat.lizhe.io/favicon.ico
           url: https://watch.lizhe.io/
           description: 基于AI的影视剧推荐工具，部署在vercel
-        - title: Google的gemini服务
-          logo: https://gemini.lizhe.io/favicon.ico
-          url: https://gemini.lizhe.io/
-          description: Google的gemini服务,部署在vercel
-        - title: langflow服务
-          logo: https://framerusercontent.com/images/Swry7kpQwwNmpsePw4Oc5P5FcJ0.png  
-          url: https://langflow.lizhe.io/
-          description: langflow服务 ,部署在render        
-        - title: flowise服务
-          logo: https://flowiseai.com/favicon.ico
-          url: https://flowise.lizhe.io/
-          description: flowise服务,部署在render       
         - title: phpmyadmin服务
           logo: https://phpmyadmin.lizhe.io/favicon.ico
           url: https://phpmyadmin.lizhe.io
@@ -239,14 +227,6 @@
           logo: 阿里云盘.png
           url: https://www.aliyundrive.com/
           description: 阿里云盘，你的数字世界。
-        - title: 天翼云盘
-          logo: 天翼云盘.jpg
-          url: https://cloud.189.cn/
-          description: 家庭云|网盘|文件备份|资源分享。
-        - title: 坚果云
-          logo: 坚果云.png
-          usrl: https://www.jianguoyun.com/
-          description: 坚果云官网。
     - term: 图标素材
       links:
         - title: Iconfinder
@@ -590,10 +570,6 @@
       logo: v2ex.jpg
       url: https://www.v2ex.com/
       description: V2EX 创意工作者的社区。
-    - title: 语雀话题
-      logo: 语雀话题.png
-      url: https://www.yuque.com/shenweiyan/wow
-      description: 好看的皮囊千篇一律，有趣的灵魂万里挑一！
 
 
 - taxonomy: 科研办公
@@ -900,14 +876,7 @@
           url: https://bbs.pinggu.org/
           logo: 经管之家.jpg
           description: 国内活跃的经济、管理、金融、统计在线教育和咨询网站。
-        - title: 阮一峰的网络日志
-          url: http://www.ruanyifeng.com/blog/
-          logo: 阮一峰.png
-          description: 阮一峰，科技爱好者周刊。
-        - title: 酷壳
-          url: https://www.coolshell.cn/
-          logo: ''
-          description: 酷 壳 – CoolShell。
+
     - term: 设计规范
       links:
         - title: Design Guidelines
