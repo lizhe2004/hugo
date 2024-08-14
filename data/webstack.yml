@@ -148,6 +148,7 @@
           url: https://acgn.ttson.cn/
           description: 动漫语音合成
         - title: UU在线工具
+          logo: default.webp
           url: https://uutool.cn/text2voice/
           description: UU在线工具
         - title: 微软Azure TTS语音库
@@ -165,7 +166,7 @@
         - title: PresentationGo
           url: https://www.presentationgo.com/
           logo: PresentationGO.png
-          description: OfficePLUS，微软Office官方在线模板网站！
+          description: PresentationGo
         - title: OfficePLUS
           url: http://www.officeplus.cn/Template/Home.shtml
           logo: officeplus.png
@@ -180,7 +181,7 @@
           description: 原创PPT模版、动态PPT、背景、素材、图标、特效等。
         - title: 比格PPT
           url: http://www.tretars.com
-          logo: officeplus.png
+          logo: tretars.png
           description: 免费PPT模版素材下载、模版制作教程的个人博客网站，
         - title: PPT汇
           url: https://www.ppthui.com/
@@ -521,7 +522,7 @@
   icon: far fa-star
   links: 
     - title: 语雀
-      logo: 语雀.jpg
+      logo: 语雀.webp
       url: https://www.yuque.com/
       description: 专业的云端知识库。
     - title: 开源中国
@@ -532,18 +533,10 @@
       logo: 微信公众号.png
       url: https://mp.weixin.qq.com/
       description: 再小的个体也有自己的品牌。
-    - title: CODING
-      logo: coding.png
-      url: https://github.com/lizhe2004
-      description: 个人 CODING 代码托管。
     - title: GitHub
-      logo: github.jpg
+      logo: github.png
       url: https://github.com/
       description: GitHub 开源社区。
-    - title: Md2X 定制版
-      logo: mdx.png
-      url: https://mdx.ncbix.com/
-      description: Markdown 排版利器，Md2All 定制版。
     - title: 搜狗微信
       logo: 搜狗微信.jpg
       url: https://weixin.sogou.com/
@@ -568,7 +561,7 @@
           url: https://www.aliyun.com/
           description: 上云就上阿里云。
         - title: 腾讯云
-          logo: 腾讯云.jpg
+          logo: 腾讯云.webp
           url: https://cloud.tencent.com/
           description: 产业智变，云启未来。
         - title: 华为云
