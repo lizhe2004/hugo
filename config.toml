@@ -1,4 +1,4 @@
-baseURL               = "https://www.huahuaxia.net/"
+baseURL               = "https://links.lidaxia.io/"
 languageCode          = "zh-CN"
 title                 = "李大侠的个人导航"
 theme                 = "WebStack-Hugo"
@@ -11,7 +11,7 @@ publishDir            = "public"					# 站点静态文件保存目录
 [params]
     author        = "lizhe2004"
     description   = "李大侠的个人导航"
-    upload        = "https://www.huahuaxia.net"  # 左侧导航栏的"网站提交"
+    upload        = "https://links.lidaxia.io/"  # 左侧导航栏的"网站提交"
     about         = "https://github.com/lizhe2004"	# 左侧导航栏的"关于导航"页面(./about)
     repository    = "https://github.com/lizhe2004"  
     enablePreLoad = true					# 网站完全打开前预加载动画
@@ -45,4 +45,4 @@ publishDir            = "public"					# 站点静态文件保存目录
     unsafe = true
 
 [params.footer]
-    copyright = '本站内容源自互联网，版权归原网站所有 <br/>&copy; 2021 - {year} By [李大侠的个人导航](http://www.huahuaxia.net/hugo/) <br/>'
+    copyright = '本站内容源自互联网，版权归原网站所有 <br/>&copy; 2021 - {year} By [李大侠的个人导航](https://links.lizhe.io/) <br/>'
