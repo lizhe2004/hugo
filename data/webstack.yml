@@ -13,11 +13,11 @@
           description: 阮一峰，科技爱好者周刊。
         - title: Martin Fowler个人博客
           url: https://martinfowler.com/
-          logo: ''
+          logo: martinfowler.jpg
           description: Martin Fowler是一位知名的软件开发者和作者，他在软件开发领域有着广泛的影响。他是敏捷开发和重构的先驱者之一，也是UML（统一建模语言）的创始人之一。他的著作《重构：改善既有代码的设计》和《企业应用架构模式》等书，对软件开发行业产生了深远影响。他目前在ThoughtWorks担任首席科学家。
         - title: 酷壳
           url: https://www.coolshell.cn/
-          logo: ''
+          logo: coolshell.png
           description: 酷 壳 – CoolShell。
 - taxonomy: 趣站
   icon: fas fa-flask fa-lg
@@ -65,12 +65,8 @@
           logo: https://qn.whyour.cn/logo.png
           url: http://timer.lushasha.com/
           description: 实现自动签到等功能，部署在腾讯云服务器
-        - title: Dify
-          logo: http://chat.lushasha.com/logo/logo-site.png
-          url: http://chat.lushasha.com/
-          description: 实现自动签到等功能，部署在腾讯云服务器，用的railway的redis服务
         - title: One-API
-          logo: http://chat.lushasha.com/logo/logo-site.png
+          logo: one-api.png
           url: https://one-api.lizhe.io/
           description: 实现将通义千问、百川等llm的API转换为openai格式的结果，部署在AZURE服务器，利用planetscale的mysql数据库
         - title: 凤谷山的小店
@@ -89,9 +85,7 @@
           logo: https://phpmyadmin.lizhe.io/favicon.ico
           url: https://phpmyadmin.lizhe.io
           description: phpmyadmin服务 ，部署在render 
-        - title: GPT 学术优化
-          logo: https://gemini.lizhe.io/favicon.ico
-          url: https://lunwen.lizhe.io/
+
           description: phpmyadmin服务 ，部署在render
         - title: 开发者工具
           logo: https://dev.lizhe.io/favicon.ico
@@ -118,7 +112,7 @@
           #qrcode: assets/images/logos/qrcode.jpg
           description: Perplexity 是一个智能搜索引擎，旨在解锁知识的力量，实现信息的发现和共享。它是世界上第一个融合了对话和链接的搜索引擎，可以识别和回复更为模糊或抽象的语言，以模拟大部分人的语言询问。
         - title: DEVV-AI
-          logo: "https://devv.ai/favicon-light.png"
+          logo: devv-light.png
           url: https://devv.ai/
           #qrcode: assets/images/logos/qrcode.jpg
           description: DEVV AI是一个创新的人工智能（AI）驱动的搜索引擎，专门为开发人员设计。它的主要目标是通过提供智能的代码搜索功能，显著提高开发效率，节省时间和精力
@@ -147,10 +141,10 @@
           description: ttson
         - title: ttstool
           logo: "https://www.ttson.cn/assets/laba.cdedf554.png"
-          url: https://ttstool.com/   
+          url: https://ttstool.com/
           description: ttstool
         - title: ttsmaker
-          logo: "https://static.ttsmaker.cn/static/v3_theme_01_asset/logo/expert_logo_v2.png"
+          logo: "https://ttsmaker.cn/static/v3_theme_01_asset/logo/expert_logo_v2.png"
           url: https://ttsmaker.cn/
           description: 基于Azure内核的，号称永久免费~（每次合成需要填写防止机器刷接口的验证码）
         - title: 迅捷语音合成
