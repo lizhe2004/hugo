@@ -126,13 +126,9 @@
           description:  Microsoft Copilot
           
     - term: TTS
-      links:  
-        - title: ttson
-          logo: "https://www.ttson.cn/assets/laba.cdedf554.png"
-          url: https://www.ttson.cn/
-          description: ttson
+      links:
         - title: ttstool
-          logo: "https://www.ttson.cn/assets/laba.cdedf554.png"
+          logo: default.webp
           url: https://ttstool.com/
           description: ttstool
         - title: ttsmaker
@@ -144,7 +140,7 @@
           url: https://www.luyinzhushou.com/text2voice/
           description: 迅捷语音合成。
         - title: 动漫语音合成
-          logo: https://www.luyinzhushou.com/public/voice/images/newUI/head/top_logo.png
+          logo: default.webp
           url: https://acgn.ttson.cn/
           description: 动漫语音合成
         - title: UU在线工具
@@ -152,7 +148,7 @@
           url: https://uutool.cn/text2voice/
           description: UU在线工具
         - title: 微软Azure TTS语音库
-          logo: https://www.luyinzhushou.com/public/voice/images/newUI/head/top_logo.png
+          logo: default.webp
           url: https://speech.microsoft.com/portal/07bbdda1a9434587b3d1a659d7745201/voicegallery
           description: 微软Azure TTS语音库
 
