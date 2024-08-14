@@ -66,7 +66,7 @@
           url: https://one-api.lizhe.io/
           description: 实现将通义千问、百川等llm的API转换为openai格式的结果，部署在AZURE服务器，利用planetscale的mysql数据库
         - title: 凤谷山的小店
-          logo: https://buy.lizhe.io/assets/common/images/default.jpg
+          logo: default.webp
           url: https://buy.lizhe.io/
           description: 实现支付后自动发卡密等商品等功能，部署在koyeb云服务，使用railway数据库
         - title: 基于NextChat的AI聊天工具
@@ -757,7 +757,7 @@
           description: 免费制作logo，基于一些免费icon         
         - title: 设计logo
           url: https://www.reshot.com/
-          logo: https://www.reshot.com/build/favicons/favicon-eacea34ccb8df4229e741aab6a417f80c44e9c904a6885b746f602af7cd3d0ac.png
+          logo: reshot.svg
           description: 免icon和插图，商业可用
         - title: tinypng
           url: https://tinypng.com/
