@@ -45,20 +45,16 @@
           logo: https://appslist.heimdall.site/icons/qbittorrent.svg
           url: http://download.lizhe.io:9090
           description: 远程下载
-        - title: AI红包应用
-          logo: https://aicover-production.up.railway.app/logo.png
-          url: http://https://aicover-production.up.railway.app/
-          description: 部署在railway，用了supabase的pg数据库
         - title: 微信聊天机器人
           logo: https://appslist.heimdall.site/icons/qbittorrent.svg
           url: work
           description: 部署在aws服务器，避免总是自动退出
         - title: Cloudreve网盘
-          logo: http://files-aws.lizhe.io/static/img/favicon.ico
+          logo: default.webp
           url: http://files-aws.lizhe.io/
-          description: 基于Cloudreve接入七牛云、阿里云oss等云存储实现的网盘
+          description: 链接失效，未恢复、基于Cloudreve接入七牛云、阿里云oss等云存储实现的网盘
         - title: Alist挂载阿里云等服务
-          logo: 
+          logo: alist.svg
           url: http://files.lushasha.com/
           description: Alist挂载阿里云等服务，部署在腾讯云服务器
         - title: 青龙定时服务器
@@ -102,7 +98,7 @@
     - term: 常用
       links:
         - title: ChatGPT
-          logo: "https://chat.openai.com/favicon.ico"
+          logo: chatgpt.ico
           url: https://chat.openai.com/
           #qrcode: assets/images/logos/qrcode.jpg
           description: ChatGPT
@@ -116,16 +112,12 @@
           url: https://devv.ai/
           #qrcode: assets/images/logos/qrcode.jpg
           description: DEVV AI是一个创新的人工智能（AI）驱动的搜索引擎，专门为开发人员设计。它的主要目标是通过提供智能的代码搜索功能，显著提高开发效率，节省时间和精力
-        - title: 电子书库
-          logo: https://www.xunshu.xyz/ico/logo.webp
-          url: https://www.xunshu.xyz/#/site
-          description: 电子书库。
         - title: Bing Image Creator
           logo: https://r.bing.com/rp/eHzVBPX0sW9TywxYEypAu704o5Q.svg
           url: https://www.bing.com/create
           description: 基于DALL·E 3的智能图片生成服务
         - title:  Microsoft Designer
-          logo: https://designer.microsoft.com/static/media/designer-app-logo.6e2c3d3d68bfcd522937c56e88199ba6.svg
+          logo: microsoft-designer.svg
           url: https://designer.microsoft.com/
           description: Microsoft Designer       
         - title:  Microsoft Copilot
@@ -172,7 +164,7 @@
       links:
         - title: PresentationGo
           url: https://www.presentationgo.com/
-          logo: PresentationGo.png
+          logo: PresentationGO.png
           description: OfficePLUS，微软Office官方在线模板网站！
         - title: OfficePLUS
           url: http://www.officeplus.cn/Template/Home.shtml
@@ -506,23 +498,23 @@
     - term: 定时任务执行SaaS服务
       links:
         - title: pipedream
-          logo: heimdall.jpg
+          logo: default.webp
           url: https://pipedream.com/@lizhe2004
           description:   定时任务执行SaaS服务
         - title: mergent
-          logo: heimdall.jpg
+          logo: default.webp
           url: https://app.mergent.co/projects
           description:   定时任务执行SaaS服务
         - title: zeplo
-          logo: heimdall.jpg
+          logo: default.webp
           url: https://console.zeplo.io/w/lizhe/schedules
           description:   定时任务执行SaaS服务
         - title: upstash
-          logo: heimdall.jpg
+          logo: default.webp
           url: https://console.upstash.com/qstash
           description:   定时任务执行SaaS服务
         - title: N8N 云服务（收费）
-          logo: heimdall.jpg
+          logo: default.webp
           url: https://app.n8n.cloud/
           description:   定时任务执行SaaS服务          
 - taxonomy: 常用推荐
