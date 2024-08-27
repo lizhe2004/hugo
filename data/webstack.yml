@@ -124,6 +124,23 @@
           logo: https://copilot.microsoft.com/rp/heOXyRFzkLjRIgrn2jdcirMbXok.png
           url: https://copilot.microsoft.com/
           description:  Microsoft Copilot
+        - title:  视频下载小助手
+          logo: videodownload.ico
+          url: https://cobalt.tools/
+          description:  视频下载小助手 
+        - title:  视频下载小助手
+          logo: videodownload.png
+          url: https://www.xiazaitool.com/ 
+          description:  视频下载小助手（不支持twitter）
+        - title:  readmedium
+          logo: readmedium.ico
+          url: https://readmedium.com/
+          description:  medium的付费墙破解网站            
+        - title:  freedium 
+          logo: videodownload.png
+          url: https://www.freedium.cfd/
+          description:  medium的付费墙破解网站  
+             
           
     - term: TTS
       links:
