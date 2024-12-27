@@ -145,7 +145,7 @@
     - term: TTS
       links:
         - title: ttstool
-          logo: default.webp
+          logo: https://webicon.lidaxia.io/favicon/ttstool.com
           url: https://ttstool.com/
           description: ttstool
         - title: ttsmaker
@@ -157,15 +157,15 @@
           url: https://www.luyinzhushou.com/text2voice/
           description: 迅捷语音合成。
         - title: 动漫语音合成
-          logo: default.webp
+          logo: https://webicon.lidaxia.io/favicon/acgn.ttson.cn
           url: https://acgn.ttson.cn/
           description: 动漫语音合成
         - title: UU在线工具
-          logo: default.webp
+          logo: https://webicon.lidaxia.io/favicon/uutool.cn
           url: https://uutool.cn/text2voice/
           description: UU在线工具
         - title: 微软Azure TTS语音库
-          logo: default.webp
+          logo: https://webicon.lidaxia.io/favicon/speech.microsoft.com
           url: https://speech.microsoft.com/portal/07bbdda1a9434587b3d1a659d7745201/voicegallery
           description: 微软Azure TTS语音库
 
@@ -301,6 +301,10 @@
           description: Search & download thousands of logos instantly.
     - term: 平面素材
       links:
+        - title: pngfree
+          logo: https://webicon.lidaxia.io/favicon/pngfree.ai
+          url: https://pngfree.ai/
+          description: 高质量的无背景抠图后的PNG图片库
         - title: freepik
           logo: freepik.png
           url: https://www.freepik.com/
@@ -512,7 +516,7 @@
     - term: 定时任务执行SaaS服务
       links:
         - title: pipedream
-          logo: default.webp
+          logo: https://webicon.lidaxia.io/favicon/pipedream.com
           url: https://pipedream.com/@lizhe2004
           description:   定时任务执行SaaS服务
         - title: mergent
