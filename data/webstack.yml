@@ -26,8 +26,26 @@
       links:
         - title: 白噪声网站
           url: https://ambiph.one/
-          logo: 阮一峰.png
+          logo: https://webicon.lidaxia.io/favicon/ambiph.one
           description: 白噪声网站
+        - title: 猫看白噪音
+          url: https://www.maokan.cc/
+          logo: https://webicon.lidaxia.io/favicon/maokan.cc
+          description: 猫看白噪音
+        - title: 白噪声网站
+          url: https://freemind.fit/
+          logo: https://webicon.lidaxia.io/favicon/freemind.fit
+          description: 白噪声网站
+        - title: 白噪声网站
+          url: https://moodist.mvze.net/
+          logo: https://webicon.lidaxia.io/favicon/oodist.mvze.net
+          description: 白噪声网站
+        - title: 白噪声网站
+          url: https://www.tree.fm/
+          logo: https://webicon.lidaxia.io/favicon/tree.fm
+          description: 白噪声网站
+          
+
 - taxonomy: 常用工具
   icon: fas fa-flask fa-lg
   list:
@@ -585,18 +603,7 @@
           logo: 华为云.png
           url: https://www.huaweicloud.com/
           description: 提供云计算服务+智能，见未来-华为云。
-        - title: 云筏科技
-          logo: ''
-          url: https://my.cloudraft.cn/
-          description: 云筏 - 科研云。
-        - title: 极云普惠云电脑
-          logo: 极云普惠云电脑.png
-          url: https://www.ji-cloud.cn/
-          description: 云电脑-云游戏-手机变电脑软件。
-        - title: 青椒云
-          logo: 青椒云.jpg
-          url: https://www.qingjiaocloud.com/
-          description: 云桌面,一站式云电脑服务平台。
+
     - term: 办公学习
       links:
         - title: 有道词典
