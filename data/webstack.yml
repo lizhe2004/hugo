@@ -59,6 +59,10 @@
           logo: http://dify.lidaxia.xyz/logo/logo.svg
           url: https://dify.lidaxia.xyz/
           description: 实现智能工作流和agent开发
+        - title: langfuse
+          logo: https://langfuse.lidaxia.xyz/icon.svg
+          url: https://langfuse.lidaxia.xyz/
+          description: langfuse可观测性LLM平台
         - title: lobe-hub
           logo: https://chat.lidaxia.xyz/icons/icon-192x192.png
           url: https://chat.lidaxia.xyz/
