@@ -84,15 +84,15 @@
           url: https://ragflow.lidaxia.xyz
           description: 领先的开源检索增强生成（RAG）引擎，融合前沿的 RAG 技术与 Agent 能力
         - title: portainer-docker-windows
-          logo:  https://webicon.lidaxia.io/favicon/www.portainer.io
+          logo: https://webicon.lidaxia.io/favicon/www.portainer.io
           url: https://docker.lidaxia.xyz
           description: windows的docker管理器
         - title: pan-sou
-          logo:  https://pan-sou.lidaxia.xyz/favicon.ico
+          logo: https://pan-sou.lidaxia.xyz/favicon.ico
           url: https://pan-sou.lidaxia.xyz
           description: 网盘搜索工具
         - title: pan-hub
-          logo:  https://pan-hub.lidaxia.xyz/logo.png
+          logo: https://pan-hub.lidaxia.xyz/logo.png
           url: https://pan-hub.lidaxia.xyz
           description: 网盘搜索工具
         - title: 开发者工具
